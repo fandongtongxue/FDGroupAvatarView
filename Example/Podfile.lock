@@ -1,0 +1,25 @@
+PODS:
+  - FDGroupAvatarView (0.1.0):
+    - SDWebImage
+  - SDWebImage (5.11.1):
+    - SDWebImage/Core (= 5.11.1)
+  - SDWebImage/Core (5.11.1)
+
+DEPENDENCIES:
+  - FDGroupAvatarView (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - SDWebImage
+
+EXTERNAL SOURCES:
+  FDGroupAvatarView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FDGroupAvatarView: c59d29c8fed629c321f2b83a0830005bf83e9be9
+  SDWebImage: a7f831e1a65eb5e285e3fb046a23fcfbf08e696d
+
+PODFILE CHECKSUM: 58fbea69eb17ecac3d4c286e2281d18051c119ef
+
+COCOAPODS: 1.10.1
